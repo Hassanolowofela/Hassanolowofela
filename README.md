@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=210&section=header&text=Hassan%20Olowofela&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Technical%20and%20Security%20Engineer%2C%20Data%20scientist&descSize=18&descAlignY=62" alt="header banner" />
 
 <a href="https://github.com/Hassanolowofela">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=720&lines=Technical+and+Security+Engineer+at+Atlas+Technologies;SIEM+operations+with+SentinelOne%2C+Azure%2C+and+Zendesk;Data+scientist+building+interpretable+ML+for+threat+detection;Building+PhishGuard%2C+explainable+phishing+detection;Master+of+Science+in+Information+Technology+at+UoPeople" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=720&lines=Technical+and+Security+Engineer+at+Atlas+Technologies;SIEM+operations+with+SentinelOne%2C+Azure%2C+M365%2C+and+Zendesk;Automating+user+on-boarding+and+off-boarding;Data+scientist+building+interpretable+ML+for+threat+detection;Building+PhishGuard%2C+explainable+phishing+detection;Master+of+Science+in+Information+Technology+at+UoPeople" alt="typing animation" />
 </a>
 
 <a href="https://www.linkedin.com/in/hassanolowofela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,8 @@
 
 ## 👋 About me
 
-- 🛡️ Technical and Security Engineer at Atlas Technologies, working across SIEM, SentinelOne, Azure, and Zendesk
+- 🛡️ Technical and Security Engineer at Atlas Technologies, working across SIEM, SentinelOne, Azure, M365, and Zendesk
+- ⚙️ Automating user on-boarding and off-boarding and other security operations workflows
 - 🔬 Data scientist building interpretable machine learning for threat detection, currently **PhishGuard**, a tool that classifies email as Safe, Scam, or Malware and explains every decision
 - 🎓 Pursuing a Master of Science in Information Technology at the University of the People (UoPeople)
 - 🌱 Learning applied ML, adversarial robustness, and secure web engineering
@@ -61,8 +62,4 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanolowofela&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hassanolowofela&theme=tokyonight&no-frame=true&column=
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassanolowofela&theme=tokyo-night&hide_border=true&area=true" alt="activity g
