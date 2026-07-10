@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=210&section=header&text=Hassan%20Olowofela&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Security%20engineer%20and%20data%20scientist&descSize=18&descAlignY=62" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=210&section=header&text=Hassan%20Olowofela&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Technical%20and%20Security%20Engineer%2C%20Data%20scientist&descSize=18&descAlignY=62" alt="header banner" />
 
 <a href="https://github.com/Hassanolowofela">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=680&lines=Information+security+engineer;Data+scientist+and+web+developer;Building+PhishGuard%2C+explainable+ML+for+phishing+detection;Educator+at+%40baudspace" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=720&lines=Technical+and+Security+Engineer+at+Atlas+Technologies;SIEM+operations+with+SentinelOne%2C+Azure%2C+and+Zendesk;Data+scientist+building+interpretable+ML+for+threat+detection;Building+PhishGuard%2C+explainable+phishing+detection;Master+of+Science+in+Information+Technology+at+UoPeople" alt="typing animation" />
 </a>
 
-<a href="https://www.linkedin.com/in/hassan-olowofela-155796173"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hassanolowofela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/hasbah2009"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <img src="https://komarev.com/ghpvc/?username=Hassanolowofela&style=for-the-badge&color=4f46e5&label=Profile+views" alt="profile views" />
 
@@ -17,12 +17,12 @@
 
 ## 👋 About me
 
-- 🛡️ Security engineer and data scientist focused on interpretable machine learning for threat detection
-- 🔬 Currently building **PhishGuard**, a web tool that classifies email as Safe, Scam, or Malware and explains every decision in plain language
+- 🛡️ Technical and Security Engineer at Atlas Technologies, working across SIEM, SentinelOne, Azure, and Zendesk
+- 🔬 Data scientist building interpretable machine learning for threat detection, currently **PhishGuard**, a tool that classifies email as Safe, Scam, or Malware and explains every decision
+- 🎓 Pursuing a Master of Science in Information Technology at the University of the People (UoPeople)
 - 🌱 Learning applied ML, adversarial robustness, and secure web engineering
-- 🎓 MSIT capstone student and an educator at [@baudspace](https://github.com/baudspace)
 - 📍 Based in Chicago, Illinois
-- 💬 Ask me about phishing detection, honest model evaluation, and Python
+- 💬 Ask me about SIEM operations, phishing detection, and honest model evaluation
 
 ## 🚀 Featured project
 
@@ -65,9 +65,4 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hassanolowofela&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=120&section=footer" alt="footer wave" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Hassanolowofela&theme=tokyonight&no-frame=true&column=
