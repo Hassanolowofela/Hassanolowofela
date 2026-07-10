@@ -15,19 +15,19 @@
 
 </div>
 
-## 👋 About me
+## About me
 
-- 🛡️ Technical and Security Engineer at Atlas Technologies, working across SIEM, SentinelOne, Azure, M365, and Zendesk
-- ⚙️ Automating user on-boarding and off-boarding and other security operations workflows
-- 🔬 Data scientist building interpretable machine learning for threat detection, currently **PhishGuard**, a tool that classifies email as Safe, Scam, or Malware and explains every decision
-- 🎓 Pursuing a Master of Science in Information Technology at the University of the People (UoPeople)
-- 🌱 Learning applied ML, adversarial robustness, and secure web engineering
+- Technical and Security Engineer at Atlas Technologies, working across SIEM, SentinelOne, Azure, M365, and Zendesk
+- Automating user on-boarding and off-boarding and other security operations workflows
+- Data scientist building interpretable machine learning for threat detection, currently **PhishGuard**, a tool that classifies email as Safe, Scam, or Malware and explains every decision
+- Pursuing a Master of Science in Information Technology at the University of the People (UoPeople)
+- Learning applied ML, adversarial robustness, and secure web engineering
 - 📍 Based in Chicago, Illinois
 - 💬 Ask me about SIEM operations, phishing detection, and honest model evaluation
 
-## 🚀 Featured project
+##  Featured project
 
-**[PhishGuard](https://github.com/Hassanolowofela/PhishGuard-Capstone)** is an interpretable, web based machine learning tool for phishing and malware email detection. It pairs a leakage controlled evaluation pipeline (test F1 about 0.996) and SHAP explanations with a Flask app that returns a Safe, Scam, or Malware verdict alongside plain language reasons and a recommended action.
+**[PhishGuard](https://github.com/Hassanolowofela/PhishGuard-Capstone)** is an interpretable, web-based machine learning tool for phishing and malware email detection. It pairs a leakage-controlled evaluation pipeline (test F1 about 0.996) and SHAP explanations with a Flask app that returns a Safe, Scam, or Malware verdict alongside plain-language reasons and a recommended action.
 
 <div align="center">
 <a href="https://github.com/Hassanolowofela/PhishGuard-Capstone">
